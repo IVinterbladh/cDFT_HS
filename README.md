@@ -18,7 +18,7 @@ The values used for the parameters are taken from the article by Freasier and No
 ## Layout
 
 Description of the directory layout.
-
+- `cDFT_code.ipynb` This is the notebook with the code and analysis.
 - `README.md` This is the file you're viewing right now.
 - `environment.yml` Defines the required Python packages using conda. 
 - `pyproject.toml` and `github/workflows/ruff.yml` sets up ruff linting for Python and Jupyter Notebooks. Delete if not relevant to your project.
